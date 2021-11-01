@@ -1,6 +1,9 @@
 ## How2JavaStudy
 JavaApplication-how2j.cn
 
+目前手动敲完的项目有:
+1.
+
  - [ ] SSM 学习路线
 		
  - [ ] 按顺序学习清单
@@ -43,7 +46,7 @@ JavaApplication-how2j.cn
  - [ ] 37 .工具和中间件 --- 部署到Linux
  - [ ] 38 .实践项目 --- 天猫整站SSM
 
- - [ ] ## springboot 学习路线
+## springboot 学习路线
  - [ ] 天猫整站springboot 学习路线
  - [ ] 按顺序学习清单
  - [ ] 1 .JAVA 基础 --- HelloWorld

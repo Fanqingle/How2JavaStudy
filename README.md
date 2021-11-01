@@ -5,7 +5,6 @@ JavaApplication-how2j.cn
 1.
 
  - [ ] SSM 学习路线
-		
  - [ ] 按顺序学习清单
  - [ ] 1 .JAVA 基础 --- HelloWorld
  - [ ] 2 .JAVA 基础 --- 面向对象
@@ -47,6 +46,7 @@ JavaApplication-how2j.cn
  - [ ] 38 .实践项目 --- 天猫整站SSM
 
 ## springboot 学习路线
+
  - [ ] 天猫整站springboot 学习路线
  - [ ] 按顺序学习清单
  - [ ] 1 .JAVA 基础 --- HelloWorld

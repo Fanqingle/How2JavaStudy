@@ -88,22 +88,30 @@ JavaApplication-how2j.cn
  - [ ] 36 .工具和中间件 --- Shiro
  - [ ] 37 .实践项目 --- 天猫整站Springboot
 
-### springcloud 趋势投资
-- [X] 1.
-
+### 分布式集群项目
+- [ ] 1.分布式和集群享[SpringCloud] 用 SpringCloud来做分布式和集群，就像用 Springboot 来开发 web应用 一样方便，快捷。
+- [ ] 2.springcloud 趋势投资
+- [ ] 
 ### DiyTomcat
 - [X] 1.
-
 
 ### Java应用工具
 - [x] 1.[Log4j] 可以灵活地把日志信息输出到控制台，日志文件等地方1
 - [x] 2.[junit] 白盒单元自动测试2
-- [] 3.[hutool] 工欲善其事必先利其器! 超级方便的工具类，大大提高工作效率，是大大~3
-- [] 4.[jsoup] 解析 xml/html 的工具，非常好用。4
-- [] 5.[lombok] 不用再手动写，setter, getter, toString, hashCode, 构造方法了。。。
+- [ ] 3.[hutool] 工欲善其事必先利其器! 超级方便的工具类，大大提高工作效率，是大大~3
+- [ ] 4.[jsoup] 解析 xml/html 的工具，非常好用。4
+- [ ] 5.[lombok] 不用再手动写，setter, getter, toString, hashCode, 构造方法了。。。
 ### 数据库
-- [X] 1.
-
-### 分布式集群
-- [X] 1.
+- [ ] 1.[oracle]处于领先地位的关系数据库
+- [ ] 2.[mysql]Mysql是常见的数据库,在中小型网站经常被使用。
+- [ ] 3.[hsqldb]无需安装，跟着JVM一起启动的JAVA内置数据库
+- [ ] 4.[sqlite]不需要安装，直接运行在 JVM 里的数据库
+## 实用工具
+- [ ] 1.[微信登录]通过微信扫描方式实现登录1
+- [ ] 2.[ssl]上了ssl之后，被访问的时候不再是 http ，而是 https ~ 安全性能更高了。
+## 中间件
+- [ ] 1.[调试]
+- [ ] 2.[git]
+- [ ] 3.[Nginx]高性能的Web服务器，通常用来和Tomcat做负载均衡
+- [ ] 4.[消息中间件]专门用来做订阅，广播等业务行为的工具
 

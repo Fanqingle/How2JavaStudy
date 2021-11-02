@@ -4,6 +4,7 @@ JavaApplication-how2j.cn
 目前手动敲完的项目有:
 1.
 
+### springboot 学习路线
  - [ ] SSM 学习路线
  - [ ] 按顺序学习清单
  - [ ] 1 .JAVA 基础 --- HelloWorld
@@ -45,7 +46,7 @@ JavaApplication-how2j.cn
  - [ ] 37 .工具和中间件 --- 部署到Linux
  - [ ] 38 .实践项目 --- 天猫整站SSM
 
-## springboot 学习路线
+### springboot 学习路线
 
  - [ ] 天猫整站springboot 学习路线
  - [ ] 按顺序学习清单
@@ -86,4 +87,23 @@ JavaApplication-how2j.cn
  - [ ] 35 .工具和中间件 --- 搜索引擎技术
  - [ ] 36 .工具和中间件 --- Shiro
  - [ ] 37 .实践项目 --- 天猫整站Springboot
+
+### springcloud 趋势投资
+- [X] 1.
+
+### DiyTomcat
+- [X] 1.
+
+
+### Java应用工具
+- [x] 1.[Log4j] 可以灵活地把日志信息输出到控制台，日志文件等地方1
+- [x] 2.[junit] 白盒单元自动测试2
+- [] 3.[hutool] 工欲善其事必先利其器! 超级方便的工具类，大大提高工作效率，是大大~3
+- [] 4.[jsoup] 解析 xml/html 的工具，非常好用。4
+- [] 5.[lombok] 不用再手动写，setter, getter, toString, hashCode, 构造方法了。。。
+### 数据库
+- [X] 1.
+
+### 分布式集群
+- [X] 1.
 
